@@ -1,8 +1,9 @@
 ![TOP](https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg)
+[The Odin Project](https://www.theodinproject.com/)
 
 # TOP_assinments Foundation Path 
 
-*Hello this is the main repo used for the foundations path at The Odin Project.*
+*Hello this is my repo used for the foundations path at The Odin Project.*
 
 ## Hands on:
 
