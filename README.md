@@ -15,8 +15,8 @@
 
 - [X] Create the HTML Boilerplate
 - [X] HTML basic elements; blog post using Lorem Ipsum
-- [ ] HTML Lists
-- [ ] HTML links and images
+- [X] HTML Lists
+- [X] HTML links and images
 - [ ] Project - TBD
 
 ### CSS -->
