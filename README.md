@@ -17,22 +17,43 @@
 - [X] HTML basic elements; blog post using Lorem Ipsum
 - [X] HTML Lists
 - [X] HTML links and images
-- [ ] Project - TBD
+- [X] Project
 
 ### CSS -->
 
-TO BE ADDED
+- [ ] CSS Foundations
+- [ ] Inspecting HTML and CSS
+- [ ] The box model
+- [ ] Block and Inline
 
 ### FLEXBOX -->
 
-TO BE ADDED
+- [ ] Introduction to Flexbox
+- [ ] Growing and Shrinking
+- [ ] Axes
+- [ ] Alignment
 
 ### JS Basics -->
 
-TO BE ADDED
+- [ ] Fundamentals I
+- [ ] Fundamentals II
+- [ ] JavaScript Developer Tools
+- [ ] Fundamentals III
+- [ ] Problem Solving
+- [ ] Understanding Errors
+- [ ] Project: Rock Paper Scissors
+- [ ] Clean code
+- [ ] Installing Node.js
+- [ ] Fundamentals IV
+- [ ] DOM manipulation and events
+- [ ] Revisiting rock paper and scissors
+- [ ] Project: Etch-a-Sketch
+- [ ] Fundamentals V
+- [ ] Project: Calculator
 
 ### BackEnd -->
 
-TO BE ADDED
+- [ ] Introduction to Back End
+- [ ] Introduction to Framework
 
 [^1]: The Odin Project is the owner of the pictures and links, I'm just using to practice the .md syntax, Cheers!
