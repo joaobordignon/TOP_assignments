@@ -1,0 +1,1 @@
+This is an example file to exercise the GIT basic commands on initial lessons of GIT for the TOP - the odin project.

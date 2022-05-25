@@ -10,6 +10,7 @@
 ### GIT -->
 
 - [X] Start using Git
+- [X] Knowledge refresh on May 25th, 2022 
 
 ### HTML -->
 
